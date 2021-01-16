@@ -16,6 +16,7 @@ struct CategoryView: View {
     var body: some View {
         
         VStack(alignment: .leading) {
+            
             Image(systemName: category.image()).font(.largeTitle)
             Text(category.toString())
             Text("・\(numberOfTasks)タスク")
@@ -25,7 +26,7 @@ struct CategoryView: View {
             Spacer()
         }
         .padding()
-        .frame(maxWidth: .infinity, maxHeight: 150)
+        .frame(maxWidth:.infinity, minHeight: 150)
         .foregroundColor(.white)
         .background(category.color())
         .cornerRadius(20)
