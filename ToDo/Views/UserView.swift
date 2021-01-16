@@ -28,6 +28,7 @@ struct UserView: View {
             .frame(width: 60, height: 60)
             .clipShape(/*@START_MENU_TOKEN@*/Circle()/*@END_MENU_TOKEN@*/)
         }
+        .padding()
         .background(Color.tBackground)
     }
 }
