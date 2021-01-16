@@ -17,6 +17,7 @@
 		D6012FC825B1C33900237C5C /* CategoryImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6012FC725B1C33900237C5C /* CategoryImage.swift */; };
 		D6012FCD25B1CACF00237C5C /* CheckBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6012FCC25B1CACF00237C5C /* CheckBox.swift */; };
 		D6012FD325B1D37D00237C5C /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6012FD225B1D37D00237C5C /* ColorExtension.swift */; };
+		D60E1DB325B28306009261BD /* TodoEntityExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = D60E1DB225B28305009261BD /* TodoEntityExtension.swift */; };
 		D6A4424325B1D622003EAB3D /* UserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A4424225B1D622003EAB3D /* UserView.swift */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +34,7 @@
 		D6012FC725B1C33900237C5C /* CategoryImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryImage.swift; sourceTree = "<group>"; };
 		D6012FCC25B1CACF00237C5C /* CheckBox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckBox.swift; sourceTree = "<group>"; };
 		D6012FD225B1D37D00237C5C /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
+		D60E1DB225B28305009261BD /* TodoEntityExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoEntityExtension.swift; sourceTree = "<group>"; };
 		D6A4424225B1D622003EAB3D /* UserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -94,6 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				D6012FD225B1D37D00237C5C /* ColorExtension.swift */,
+				D60E1DB225B28305009261BD /* TodoEntityExtension.swift */,
 			);
 			path = Extension;
 			sourceTree = "<group>";
@@ -168,6 +171,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D60E1DB325B28306009261BD /* TodoEntityExtension.swift in Sources */,
 				D6012FB025B1C09A00237C5C /* AppDelegate.swift in Sources */,
 				D6012FB225B1C09A00237C5C /* SceneDelegate.swift in Sources */,
 				D6012FCD25B1CACF00237C5C /* CheckBox.swift in Sources */,
