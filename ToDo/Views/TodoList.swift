@@ -28,7 +28,7 @@ struct TodoList: View {
                     }
                 }
             }
-            NewTask(category: category).padding()
+            QuickNewTaskView(category: category).padding()
         }
     }
 }
