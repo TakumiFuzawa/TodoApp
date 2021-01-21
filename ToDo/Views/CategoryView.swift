@@ -24,7 +24,7 @@ struct CategoryView: View {
         VStack(alignment: .leading) {
             
             Image(systemName: category.image()).font(.largeTitle).sheet(isPresented: $showList) {
-                TodoList(category: self.category).environment(\.managedObjectContext, self.ViewContext)
+                TodoListView(category: self.category).environment(\.managedObjectContext, self.ViewContext)
             }
             Text(category.toString())
             Text("・\(numberOfTasks)タスク")

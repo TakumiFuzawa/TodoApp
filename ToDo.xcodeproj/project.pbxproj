@@ -28,7 +28,7 @@
 		D6A4424325B1D622003EAB3D /* UserView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6A4424225B1D622003EAB3D /* UserView.swift */; };
 		D6E16FF325B30EDD0090F197 /* TodoDetailRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6E16FF225B30EDD0090F197 /* TodoDetailRowView.swift */; };
 		D6F6844325B291D0002712E1 /* QuickNewTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6844225B291D0002712E1 /* QuickNewTaskView.swift */; };
-		D6F6844725B2B027002712E1 /* TodoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6844625B2B027002712E1 /* TodoList.swift */; };
+		D6F6844725B2B027002712E1 /* TodoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F6844625B2B027002712E1 /* TodoListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,7 +55,7 @@
 		D6A4424225B1D622003EAB3D /* UserView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserView.swift; sourceTree = "<group>"; };
 		D6E16FF225B30EDD0090F197 /* TodoDetailRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoDetailRowView.swift; sourceTree = "<group>"; };
 		D6F6844225B291D0002712E1 /* QuickNewTaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickNewTaskView.swift; sourceTree = "<group>"; };
-		D6F6844625B2B027002712E1 /* TodoList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoList.swift; sourceTree = "<group>"; };
+		D6F6844625B2B027002712E1 /* TodoListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -130,7 +130,7 @@
 				D6A4424225B1D622003EAB3D /* UserView.swift */,
 				D60E1DB625B28919009261BD /* CategoryView.swift */,
 				D6E16FF225B30EDD0090F197 /* TodoDetailRowView.swift */,
-				D6F6844625B2B027002712E1 /* TodoList.swift */,
+				D6F6844625B2B027002712E1 /* TodoListView.swift */,
 				D6F6844225B291D0002712E1 /* QuickNewTaskView.swift */,
 				D615091325B427C300416AB8 /* NewTaskView.swift */,
 				D62C900225B6BD9B00D96706 /* EditTaskView.swift */,
@@ -214,7 +214,7 @@
 				D60E1DB325B28306009261BD /* TodoEntityExtension.swift in Sources */,
 				D6012FB025B1C09A00237C5C /* AppDelegate.swift in Sources */,
 				D6012FB225B1C09A00237C5C /* SceneDelegate.swift in Sources */,
-				D6F6844725B2B027002712E1 /* TodoList.swift in Sources */,
+				D6F6844725B2B027002712E1 /* TodoListView.swift in Sources */,
 				D6012FCD25B1CACF00237C5C /* CheckBox.swift in Sources */,
 				D662855625B96256005EC12E /* Date.swift in Sources */,
 				D662855325B96195005EC12E /* TaskTodayView.swift in Sources */,
