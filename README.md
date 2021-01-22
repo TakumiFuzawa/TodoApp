@@ -9,18 +9,12 @@
   <img src="https://user-images.githubusercontent.com/46737524/105439677-a0fb0a80-5ca8-11eb-8561-e83b885dd6e7.png" width="240px">
   <img src="https://user-images.githubusercontent.com/46737524/105439849-eb7c8700-5ca8-11eb-8e6a-2ec5fd78f523.png" width="240px">
 </p> 
-
- 
-# Features
- 
-"hoge"のセールスポイントや差別化などを説明する
  
 # Requirement
- 
-"hoge"を動かすのに必要なライブラリなどを列挙する
- 
-* huga 3.5.2
-* hogehuga 1.0.2
+
+* Swift 
+* SwiftUI
+* swift CoreData
  
 # Installation
  
