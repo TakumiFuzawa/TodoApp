@@ -3,8 +3,8 @@
 データベースを使用し、デザインにフォーカスをしたToDoアプリ
  
 # DEMO
- 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+
+<img src="app_image1" width="320px">
  
 # Features
  
